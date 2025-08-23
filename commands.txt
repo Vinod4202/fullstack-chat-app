@@ -1,0 +1,26 @@
+//backend
+
+npm inti -y
+npm i express mongoose dotenv jsonwebtoken bcryptjs cookie-parser cloudinary socket.io
+
+//frontend
+
+npm create vite@latest .
+npm install
+npm i react-router-dom react-hot-toast
+//initalize tailwind css
+npm install -D tailwindcss@3 postcss autoprefixer
+npx tailwindcss init -p
+
+//daisyui
+npm i -D daisyui@latest
+
+// axios - api requests from frontend to backend , zustand - state management
+npm i axios zustand
+
+//backend cors - this error happens when calling from frontend to backend using different ports
+npm i cors
+
+//loader
+npm i lucide-react
+
