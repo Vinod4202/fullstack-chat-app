@@ -21,8 +21,8 @@ This project supports **user authentication, private chats, image sharing, and o
 ## 🛠️ Tech Stack
 **Frontend:** React.js, TailwindCSS/daisy UI, Axios  
 **Backend:** Node.js, Express.js, Socket.IO  
-**Database:** MongoDB
-**Authentication:** JWT (JSON Web Token)
+**Database:** MongoDB   
+**Authentication:** JWT (JSON Web Token)   
 **Deployment:** Render
 
 ---
